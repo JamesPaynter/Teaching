@@ -14,14 +14,14 @@ def func2():
         print("The sum of x is {yvar}")
 
 def func34(num1 = None, num2 = None):
-    # sums two numbers
+    sums two numbers
     sum = num1 + num2
     return sum if true else False
 
 def func4():
     """ find the sum """
     pop = 0
-    # y = [[1]m [x], [x-3], [x**2]]
+    y = [[1]m [x], [x-3], [x**2]]
     for x in y:
         print(x)
         pop += y[x]
